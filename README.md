@@ -1,4 +1,4 @@
-***WeTheNew Scraper**
+***WeTheNew Scraper***\n
 **Overview**
 This script is designed to scrape sneaker product details from "wethenew.com" and enhance the product descriptions using OpenAI's API.
 
